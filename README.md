@@ -1,4 +1,4 @@
-### 😄欢迎光临本寒舍，留下你的足迹 👋
+### 😄欢迎光临本寒舍，请留下你的足迹 👋
 
 <!--
 **jackchen0120/jackchen0120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
