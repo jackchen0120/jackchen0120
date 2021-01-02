@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jackchen0120&theme=dark&show_icons=true)
+
 <!--<article class="markdown-body entry-content container-lg" itemprop="text"><table>
 <thead>
 <tr>
