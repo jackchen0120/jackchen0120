@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jackchen0120&theme=algolia&show_icons=true)-->
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jackchen0120&theme=algolia&show_icons=true&hide=contribs,prs)
 
 <!--<article class="markdown-body entry-content container-lg" itemprop="text"><table>
 <thead>
