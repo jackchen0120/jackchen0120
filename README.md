@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jackchen0120&theme=algolia&show_icons=true&hide=contribs,prs)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jackchen0120&layout=compact)](https://juejin.cn/user/1714893872433928)
 
 
