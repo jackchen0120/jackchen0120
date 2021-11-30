@@ -1,6 +1,6 @@
 ## 😄欢迎光临本寒舍，请留下你的足迹 👋
 
-## 前端学习路线
+<!--## 前端学习路线
 
 ### HTML和CSS以及DOM交互学习路线
 <img src="https://raw.githubusercontent.com/jackchen0120/jackchen0120/master/HTML_CSS_01.jpg" style="max-width:100%;">
@@ -11,7 +11,7 @@
 ### 数据结构和算法
 <img src="https://raw.githubusercontent.com/jackchen0120/jackchen0120/master/algorithms_01.jpg" style="max-width:100%;">
 
-<!--
+
 **jackchen0120/jackchen0120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
