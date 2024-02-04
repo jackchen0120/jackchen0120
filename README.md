@@ -26,6 +26,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
+
 <!--![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jackchen0120&theme=algolia&show_icons=true&hide=contribs,prs)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jackchen0120&layout=compact)](https://juejin.cn/user/1714893872433928)-->
 
